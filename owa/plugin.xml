@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Plugin name="owa" version="1.0" date="2016-12-20" compatibility="2.0" installRequired="false" >
+<author name="tgtje" url="https://www.tgtje.nl" email="tgtje@tgtje.nl" />
+<description lan="">A simple menu to add track code to your website.</description>
+	<category>menu-plugin</category>
+</e107Plugin>
