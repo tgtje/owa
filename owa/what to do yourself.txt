@@ -1,0 +1,12 @@
+Creates a Simple small menu/plugin (owa); can not find another thing... helas  
+menu itself is nameless (madewithout caption)!!
+ (use as menu and put in any area you like/need)
+
+ Simply change the setSiteID to reflect yours; of course sitepath (baseurl) too)
+Do this twice > once in menu php and once in track js
+
+Happy analyzing.
+
+The scripting is provide by Openwebanalitics and may be updated by them.
+
+
